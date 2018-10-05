@@ -7,3 +7,8 @@ This is just a list of podcasts.
   <li>Parellel<br>
   https://www.relay.fm/parallel</li>
   </ul>
+  <h1>Software Testing PodCast List</h1>
+  <ul>
+    <li>Testers' Isalnd Discs<br>
+      https://testingpodcast.com/</li>
+  </ul>
