@@ -1,4 +1,4 @@
-# PodCastList
+# PodCast List
 This is just a list of podcasts.
 <h1>Tech PodCasts</h1>
 <ul>
