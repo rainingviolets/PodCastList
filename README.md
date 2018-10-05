@@ -1,6 +1,6 @@
 # PodCastList
 This is just a list of podcasts.
-<h1>TechPodCasts</h1>
+<h1>Tech PodCasts</h1>
 <ul>
   <li>Clockwise<br>
     https://www.relay.fm/clockwise</li>
