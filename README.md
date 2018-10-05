@@ -15,3 +15,9 @@ This is just a list of podcasts.
       https://joecolantonio.com/testtalks/
     </li>
   </ul>
+  <h1>Software Security PodCasts</h1>
+  <ul>
+    <li>Security in 5</br>
+    http://securityinfive.libsyn.com/
+    </li>
+  </ul>
