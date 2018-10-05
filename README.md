@@ -11,4 +11,7 @@ This is just a list of podcasts.
   <ul>
     <li>Testers' Isalnd Discs<br>
       https://testingpodcast.com/</li>
+    <li>TestTalks<br>
+      https://joecolantonio.com/testtalks/
+    </li>
   </ul>
