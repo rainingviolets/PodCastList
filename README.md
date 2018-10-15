@@ -21,3 +21,9 @@ This is just a list of podcasts.
     http://securityinfive.libsyn.com/
     </li>
   </ul>
+    <h1>Software PodCasts</h1>
+  <ul>
+    <li>Programming with Palermo</br>
+    https://jeffreypalermo.com/category/blog/
+    </li>
+  </ul>
